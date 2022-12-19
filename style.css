@@ -1,0 +1,18 @@
+#google_translate_element{
+    text-align: center;
+}
+.text{
+   text-align: center;
+   margin: 50px;
+   display: flex;
+   align-items:center;
+   justify-content:space-evenly;
+   flex-direction: row;
+}
+.button{
+   text-align: center;
+   margin: 100px;
+}
+.button button {
+    margin-top: 50px;
+}
